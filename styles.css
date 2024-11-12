@@ -1,4 +1,8 @@
  body{
  color: darkgreen;
  background:lightgoldenrodyellow;
+}  
+
+header{
+  border: solid 3px darkgreen;
 }
